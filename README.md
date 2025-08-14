@@ -7,7 +7,10 @@
       <a href="https://linkedin.com/in/jithendra11" target="_blank">LinkedIn</a> |
       <a href="mailto:gjithendravarma@gmail.com">Email</a>
    </p>
+   <br/>
+   <h2>Home page of the Project</h2>
    <img src="./public/readme/Homepage.png" alt="PomoGo Homepage" width="400" />
+   <br/>
    <img src="./public/readme/homepage2.png" alt="Settings and Notes Section" width="400" />
 </div>
 
